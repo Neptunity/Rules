@@ -1,5 +1,6 @@
 # Rules
 Rules on both Discord and Minecraft.
+
 1 – In-game Rules 
 
 Applies to our Minecraft server. 
@@ -84,10 +85,9 @@ Our reports have some requirements that must be followed. In case you do not mee
 
 - Submitting falsified evidence. 
 
-Alakzat
 2 - Chat Rules 
 
-Applies to Discord and Minecraft. In case of Discord, punishments are bans, in case of Minecraft, they are ALWAYS mutes.Alakzat 
+Applies to Discord and Minecraft. In case of Discord, punishments are bans, in case of Minecraft, they are ALWAYS mutes
 
  
 
