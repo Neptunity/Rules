@@ -205,7 +205,7 @@ You must follow Discord’s Terms of Service and Community Guidelines. This proh
 
  
 
-* - Discord Only 
+'*' - Discord Only 
 
 Info: The type and length of punishments is decided freely by the staff based on the severity of rule breaking and other factors, unless stated otherwise. 
 
